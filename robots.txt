@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aighoochah.lifizer.com/sitemap.xml
